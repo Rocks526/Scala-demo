@@ -13,6 +13,11 @@ object Demo1 {
     }else{
       println("成绩小于80")
     }
+
+    var res = 50
+    res = if (res > 60) res else 60
+    println(res)
+
   }
 
 }

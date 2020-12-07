@@ -16,5 +16,7 @@ object Demo1 {
     var r4 = 10 % 3 // 1
     println("r4=" + r4)
 
+    val bool = 60 > 50
+
   }
 }

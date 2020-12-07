@@ -12,6 +12,7 @@
         <module>01-scala的数据类型</module>
         <module>02-Scala的运算符</module>
         <module>03-Scala的逻辑控制</module>
+        <module>04-Scala的函数</module>
     </modules>
 
 
